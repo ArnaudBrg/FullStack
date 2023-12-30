@@ -12,8 +12,8 @@
 1. Clonez le dépôt GitHub :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-projet.git
-    cd votre-projet
+    git clone https://github.com/ArnaudBrg/FullStack.git
+    cd FullStack
     ```
 
 2. Backend (API) :
